@@ -937,7 +937,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: abhijeetpatilhnl@gmail.com
 - GitHub: [abhijeetpatilrm](https://github.com/abhijeetpatilrm)
-- LinkedIn: [Abhijeet Patil](https://linkedin.com/in/abhijeetpatil)
+
 
 ---
 
